@@ -1,8 +1,15 @@
 package exp01;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
+import java.io.FileWriter;
+import java.io.IOException;
+import exp01.SortRecord;
+
 
 public class Experiment {
+    private static List<SortRecord> sortRecords = new ArrayList<>();
     public static void main(String[] args) {
         // Define the sizes of arrays to be sorted
         int length1 = 10;
@@ -19,7 +26,8 @@ public class Experiment {
         sortNearlySortedArrayInt(length1, iterations, warmupIterations);
         sortOrderedArrayInt(length1, iterations, warmupIterations);
         sortReverseSortedArrayInt(length1, iterations, warmupIterations);
-
+       
+        writeRecordsToCSV("sorting_durations.csv");
     }
 
     // Method to warm up JVM for a given sorter and array size
@@ -91,6 +99,7 @@ public class Experiment {
             bubbleSortPassPerItem.sort(orderedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortPassPerItem", arrayLength, endTime - startTime, "Sorted"));
             System.out.println("Time taken to sort with BubbleSortPassPerItem: " + duration + " nanoseconds");
             totalTimePassPerItem += duration;
         }
@@ -103,6 +112,7 @@ public class Experiment {
             bubbleSortUntilNoChange.sort(orderedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortUntilNoChange", arrayLength, endTime - startTime, "Sorted"));
             System.out.println("Time taken to sort with BubbleSortUntilNoChange: " + duration + " nanoseconds");
             totalTimeUntilNoChange += duration;
         }
@@ -115,6 +125,7 @@ public class Experiment {
             bubbleSortWhileNeeded.sort(orderedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortWhileNeeded", arrayLength, endTime - startTime, "Sorted"));
             System.out.println("Time taken to sort with BubbleSortWhileNeeded: " + duration + " nanoseconds");
             totalTimeWhileNeeded += duration;
         }
@@ -145,6 +156,7 @@ public class Experiment {
             bubbleSortWhileNeeded.sort(randomArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortWhileNeeded", arrayLength, endTime - startTime, "Random"));
             System.out.println("Time taken to sort with BubbleSortWhileNeeded: " + duration + " nanoseconds");
             totalTimeWhileNeeded += duration;
         }
@@ -156,6 +168,7 @@ public class Experiment {
             bubbleSortPassPerItem.sort(randomArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortPassPerItem", arrayLength, endTime - startTime, "Random"));
             System.out.println("Time taken to sort with BubbleSortPassPerItem: " + duration + " nanoseconds");
             totalTimePassPerItem += duration;
         }
@@ -168,6 +181,7 @@ public class Experiment {
             bubbleSortUntilNoChange.sort(randomArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortUntilNoChange", arrayLength, endTime - startTime, "Random"));
             System.out.println("Time taken to sort with BubbleSortUntilNoChange: " + duration + " nanoseconds");
             totalTimeUntilNoChange += duration;
         }
@@ -198,6 +212,7 @@ public class Experiment {
             bubbleSortWhileNeeded.sort(reverseSortedArray.clone());
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortWhileNeeded", arrayLength, endTime - startTime, "Reverse"));
             System.out.println("Time taken to sort with BubbleSortWhileNeeded: " + duration + " nanoseconds");
             totalTimeWhileNeeded += duration;
         }
@@ -210,6 +225,7 @@ public class Experiment {
             bubbleSortPassPerItem.sort(reverseSortedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortPassPerItem", arrayLength, endTime - startTime, "Reverse"));
             System.out.println("Time taken to sort with BubbleSortPassPerItem: " + duration + " nanoseconds");
             totalTimePassPerItem += duration;
         }
@@ -222,6 +238,7 @@ public class Experiment {
             bubbleSortUntilNoChange.sort(reverseSortedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortUntilNoChange", arrayLength, endTime - startTime, "Reverse"));
             System.out.println("Time taken to sort with BubbleSortUntilNoChange: " + duration + " nanoseconds");
             totalTimeUntilNoChange += duration;
         }
@@ -251,6 +268,7 @@ public class Experiment {
             bubbleSortWhileNeeded.sort(nearlySortedArray.clone());
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortWhileNeeded", arrayLength, endTime - startTime, "Nearly sorted"));
             System.out.println("Time taken to sort with BubbleSortWhileNeeded: " + duration + " nanoseconds");
             totalTimeWhileNeeded += duration;
         }
@@ -262,6 +280,7 @@ public class Experiment {
             bubbleSortPassPerItem.sort(nearlySortedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortPassPerItem", arrayLength, endTime - startTime, "Nearly sorted"));
             System.out.println("Time taken to sort with BubbleSortPassPerItem: " + duration + " nanoseconds");
             totalTimePassPerItem += duration;
         }
@@ -274,6 +293,7 @@ public class Experiment {
             bubbleSortUntilNoChange.sort(nearlySortedArray);
             long endTime = System.nanoTime();
             long duration = endTime - startTime;
+            sortRecords.add(new SortRecord("BubbleSortUntilNoChange", arrayLength, endTime - startTime, "Nearly sorted"));
             System.out.println("Time taken to sort with BubbleSortUntilNoChange: " + duration + " nanoseconds");
             totalTimeUntilNoChange += duration;
         }
@@ -284,5 +304,15 @@ public class Experiment {
         System.out.println("Average time taken to sort with BubbleSortWhileNeeded: " + totalTimeWhileNeeded / iterations
                 + " nanoseconds");
     }
-
+    // Write records to CSV
+    private static void writeRecordsToCSV(String fileName) {
+        try (FileWriter fileWriter = new FileWriter(fileName)) {
+            fileWriter.write("Sorter,ArraySize,Duration,Array order\n");
+            for (SortRecord record : sortRecords) {
+                fileWriter.write(record.toString() + "\n");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
