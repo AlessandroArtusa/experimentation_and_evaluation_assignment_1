@@ -1,9 +1,9 @@
-
+package exp01;
 import java.util.Random;
 
-import exp01.BubbleSortPassPerItem;
-import exp01.BubbleSortUntilNoChange;
-import exp01.BubbleSortWhileNeeded;
+// import exp01.BubbleSortPassPerItem;
+// import exp01.BubbleSortUntilNoChange;
+// import exp01.BubbleSortWhileNeeded;
 
 public class Experiment {
     public static void main(String[] args) {
@@ -35,6 +35,7 @@ public class Experiment {
     private static void warmUpJVM(BubbleSortPassPerItem<Integer> sorter, int length, int iterations) {
         for (int i = 0; i < iterations; i++) {
             Integer[] dummyArray = generateRandomArray(length);
+            System.out.println("Array sorted "+ i);
             sorter.sort(dummyArray);
         }
     }
