@@ -5,17 +5,13 @@ import java.util.List;
 import java.util.Random;
 import java.io.FileWriter;
 import java.io.IOException;
-import exp01.SortRecord;
 
 
 public class Experiment {
     private static List<SortRecord> sortRecords = new ArrayList<>();
     public static void main(String[] args) {
         // Define the sizes of arrays to be sorted
-        int length1 = 10;
-        int length2 = 100;
-        int length3 = 1000;
-        int length4 = 10000;
+        int length1 = 100;//Change to (10, 100, 1000, 10000)
 
         // Define the number of iterations for warming up JVM and for actual sorting
         int warmupIterations = 1000;

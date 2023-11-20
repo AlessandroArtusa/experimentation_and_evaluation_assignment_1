@@ -1,361 +1,361 @@
 Sorter,ArraySize,Duration,Array order
-BubbleSortWhileNeeded,10,9125,Random
-BubbleSortWhileNeeded,10,20745,Random
-BubbleSortWhileNeeded,10,468,Random
-BubbleSortWhileNeeded,10,495,Random
-BubbleSortWhileNeeded,10,396,Random
-BubbleSortWhileNeeded,10,409,Random
-BubbleSortWhileNeeded,10,448,Random
-BubbleSortWhileNeeded,10,393,Random
-BubbleSortWhileNeeded,10,519,Random
-BubbleSortWhileNeeded,10,472,Random
-BubbleSortWhileNeeded,10,448,Random
-BubbleSortWhileNeeded,10,394,Random
-BubbleSortWhileNeeded,10,355,Random
-BubbleSortWhileNeeded,10,409,Random
-BubbleSortWhileNeeded,10,446,Random
-BubbleSortWhileNeeded,10,404,Random
-BubbleSortWhileNeeded,10,425,Random
-BubbleSortWhileNeeded,10,480,Random
-BubbleSortWhileNeeded,10,464,Random
-BubbleSortWhileNeeded,10,372,Random
-BubbleSortWhileNeeded,10,433,Random
-BubbleSortWhileNeeded,10,461,Random
-BubbleSortWhileNeeded,10,497,Random
-BubbleSortWhileNeeded,10,440,Random
-BubbleSortWhileNeeded,10,453,Random
-BubbleSortWhileNeeded,10,398,Random
-BubbleSortWhileNeeded,10,441,Random
-BubbleSortWhileNeeded,10,471,Random
-BubbleSortWhileNeeded,10,430,Random
-BubbleSortWhileNeeded,10,454,Random
-BubbleSortPassPerItem,10,4352,Random
-BubbleSortPassPerItem,10,1376,Random
-BubbleSortPassPerItem,10,1133,Random
-BubbleSortPassPerItem,10,1120,Random
-BubbleSortPassPerItem,10,1082,Random
-BubbleSortPassPerItem,10,1030,Random
-BubbleSortPassPerItem,10,1112,Random
-BubbleSortPassPerItem,10,1024,Random
-BubbleSortPassPerItem,10,1020,Random
-BubbleSortPassPerItem,10,2646,Random
-BubbleSortPassPerItem,10,1047,Random
-BubbleSortPassPerItem,10,1044,Random
-BubbleSortPassPerItem,10,1138,Random
-BubbleSortPassPerItem,10,1103,Random
-BubbleSortPassPerItem,10,1108,Random
-BubbleSortPassPerItem,10,1025,Random
-BubbleSortPassPerItem,10,1064,Random
-BubbleSortPassPerItem,10,1066,Random
-BubbleSortPassPerItem,10,1120,Random
-BubbleSortPassPerItem,10,1082,Random
-BubbleSortPassPerItem,10,1074,Random
-BubbleSortPassPerItem,10,1143,Random
-BubbleSortPassPerItem,10,1151,Random
-BubbleSortPassPerItem,10,1049,Random
-BubbleSortPassPerItem,10,1049,Random
-BubbleSortPassPerItem,10,1065,Random
-BubbleSortPassPerItem,10,1120,Random
-BubbleSortPassPerItem,10,1072,Random
-BubbleSortPassPerItem,10,1042,Random
-BubbleSortPassPerItem,10,1054,Random
-BubbleSortUntilNoChange,10,6535,Random
-BubbleSortUntilNoChange,10,553,Random
-BubbleSortUntilNoChange,10,299,Random
-BubbleSortUntilNoChange,10,310,Random
-BubbleSortUntilNoChange,10,4816,Random
-BubbleSortUntilNoChange,10,227,Random
-BubbleSortUntilNoChange,10,284,Random
-BubbleSortUntilNoChange,10,254,Random
-BubbleSortUntilNoChange,10,253,Random
-BubbleSortUntilNoChange,10,232,Random
-BubbleSortUntilNoChange,10,214,Random
-BubbleSortUntilNoChange,10,218,Random
-BubbleSortUntilNoChange,10,240,Random
-BubbleSortUntilNoChange,10,244,Random
-BubbleSortUntilNoChange,10,272,Random
-BubbleSortUntilNoChange,10,214,Random
-BubbleSortUntilNoChange,10,222,Random
-BubbleSortUntilNoChange,10,258,Random
-BubbleSortUntilNoChange,10,280,Random
-BubbleSortUntilNoChange,10,306,Random
-BubbleSortUntilNoChange,10,246,Random
-BubbleSortUntilNoChange,10,248,Random
-BubbleSortUntilNoChange,10,300,Random
-BubbleSortUntilNoChange,10,276,Random
-BubbleSortUntilNoChange,10,328,Random
-BubbleSortUntilNoChange,10,298,Random
-BubbleSortUntilNoChange,10,335,Random
-BubbleSortUntilNoChange,10,294,Random
-BubbleSortUntilNoChange,10,314,Random
-BubbleSortUntilNoChange,10,321,Random
-BubbleSortWhileNeeded,10,6811,Nearly sorted
-BubbleSortWhileNeeded,10,1415,Nearly sorted
-BubbleSortWhileNeeded,10,1096,Nearly sorted
-BubbleSortWhileNeeded,10,21780,Nearly sorted
-BubbleSortWhileNeeded,10,1117,Nearly sorted
-BubbleSortWhileNeeded,10,885,Nearly sorted
-BubbleSortWhileNeeded,10,929,Nearly sorted
-BubbleSortWhileNeeded,10,964,Nearly sorted
-BubbleSortWhileNeeded,10,926,Nearly sorted
-BubbleSortWhileNeeded,10,863,Nearly sorted
-BubbleSortWhileNeeded,10,875,Nearly sorted
-BubbleSortWhileNeeded,10,878,Nearly sorted
-BubbleSortWhileNeeded,10,876,Nearly sorted
-BubbleSortWhileNeeded,10,999,Nearly sorted
-BubbleSortWhileNeeded,10,1000,Nearly sorted
-BubbleSortWhileNeeded,10,987,Nearly sorted
-BubbleSortWhileNeeded,10,947,Nearly sorted
-BubbleSortWhileNeeded,10,936,Nearly sorted
-BubbleSortWhileNeeded,10,1053,Nearly sorted
-BubbleSortWhileNeeded,10,974,Nearly sorted
-BubbleSortWhileNeeded,10,1060,Nearly sorted
-BubbleSortWhileNeeded,10,962,Nearly sorted
-BubbleSortWhileNeeded,10,996,Nearly sorted
-BubbleSortWhileNeeded,10,960,Nearly sorted
-BubbleSortWhileNeeded,10,946,Nearly sorted
-BubbleSortWhileNeeded,10,958,Nearly sorted
-BubbleSortWhileNeeded,10,915,Nearly sorted
-BubbleSortWhileNeeded,10,832,Nearly sorted
-BubbleSortWhileNeeded,10,853,Nearly sorted
-BubbleSortWhileNeeded,10,855,Nearly sorted
-BubbleSortPassPerItem,10,2168,Nearly sorted
-BubbleSortPassPerItem,10,1355,Nearly sorted
-BubbleSortPassPerItem,10,1162,Nearly sorted
-BubbleSortPassPerItem,10,1080,Nearly sorted
-BubbleSortPassPerItem,10,1091,Nearly sorted
-BubbleSortPassPerItem,10,1093,Nearly sorted
-BubbleSortPassPerItem,10,1143,Nearly sorted
-BubbleSortPassPerItem,10,1169,Nearly sorted
-BubbleSortPassPerItem,10,1129,Nearly sorted
-BubbleSortPassPerItem,10,1157,Nearly sorted
-BubbleSortPassPerItem,10,1120,Nearly sorted
-BubbleSortPassPerItem,10,1065,Nearly sorted
-BubbleSortPassPerItem,10,1176,Nearly sorted
-BubbleSortPassPerItem,10,1169,Nearly sorted
-BubbleSortPassPerItem,10,1078,Nearly sorted
-BubbleSortPassPerItem,10,1101,Nearly sorted
-BubbleSortPassPerItem,10,1091,Nearly sorted
-BubbleSortPassPerItem,10,1085,Nearly sorted
-BubbleSortPassPerItem,10,1066,Nearly sorted
-BubbleSortPassPerItem,10,1865,Nearly sorted
-BubbleSortPassPerItem,10,1804,Nearly sorted
-BubbleSortPassPerItem,10,1162,Nearly sorted
-BubbleSortPassPerItem,10,1128,Nearly sorted
-BubbleSortPassPerItem,10,1103,Nearly sorted
-BubbleSortPassPerItem,10,1083,Nearly sorted
-BubbleSortPassPerItem,10,1157,Nearly sorted
-BubbleSortPassPerItem,10,1288,Nearly sorted
-BubbleSortPassPerItem,10,1238,Nearly sorted
-BubbleSortPassPerItem,10,1175,Nearly sorted
-BubbleSortPassPerItem,10,1111,Nearly sorted
-BubbleSortUntilNoChange,10,416,Nearly sorted
-BubbleSortUntilNoChange,10,385,Nearly sorted
-BubbleSortUntilNoChange,10,354,Nearly sorted
-BubbleSortUntilNoChange,10,362,Nearly sorted
-BubbleSortUntilNoChange,10,326,Nearly sorted
-BubbleSortUntilNoChange,10,327,Nearly sorted
-BubbleSortUntilNoChange,10,313,Nearly sorted
-BubbleSortUntilNoChange,10,296,Nearly sorted
-BubbleSortUntilNoChange,10,289,Nearly sorted
-BubbleSortUntilNoChange,10,284,Nearly sorted
-BubbleSortUntilNoChange,10,283,Nearly sorted
-BubbleSortUntilNoChange,10,304,Nearly sorted
-BubbleSortUntilNoChange,10,294,Nearly sorted
-BubbleSortUntilNoChange,10,297,Nearly sorted
-BubbleSortUntilNoChange,10,321,Nearly sorted
-BubbleSortUntilNoChange,10,297,Nearly sorted
-BubbleSortUntilNoChange,10,301,Nearly sorted
-BubbleSortUntilNoChange,10,269,Nearly sorted
-BubbleSortUntilNoChange,10,305,Nearly sorted
-BubbleSortUntilNoChange,10,293,Nearly sorted
-BubbleSortUntilNoChange,10,315,Nearly sorted
-BubbleSortUntilNoChange,10,357,Nearly sorted
-BubbleSortUntilNoChange,10,287,Nearly sorted
-BubbleSortUntilNoChange,10,326,Nearly sorted
-BubbleSortUntilNoChange,10,285,Nearly sorted
-BubbleSortUntilNoChange,10,301,Nearly sorted
-BubbleSortUntilNoChange,10,334,Nearly sorted
-BubbleSortUntilNoChange,10,254,Nearly sorted
-BubbleSortUntilNoChange,10,293,Nearly sorted
-BubbleSortUntilNoChange,10,264,Nearly sorted
-BubbleSortPassPerItem,10,5543,Sorted
-BubbleSortPassPerItem,10,5970,Sorted
-BubbleSortPassPerItem,10,5512,Sorted
-BubbleSortPassPerItem,10,5263,Sorted
-BubbleSortPassPerItem,10,5205,Sorted
-BubbleSortPassPerItem,10,5206,Sorted
-BubbleSortPassPerItem,10,5162,Sorted
-BubbleSortPassPerItem,10,5120,Sorted
-BubbleSortPassPerItem,10,6298,Sorted
-BubbleSortPassPerItem,10,5145,Sorted
-BubbleSortPassPerItem,10,5097,Sorted
-BubbleSortPassPerItem,10,5214,Sorted
-BubbleSortPassPerItem,10,5108,Sorted
-BubbleSortPassPerItem,10,5166,Sorted
-BubbleSortPassPerItem,10,5195,Sorted
-BubbleSortPassPerItem,10,5210,Sorted
-BubbleSortPassPerItem,10,5141,Sorted
-BubbleSortPassPerItem,10,5234,Sorted
-BubbleSortPassPerItem,10,6112,Sorted
-BubbleSortPassPerItem,10,5155,Sorted
-BubbleSortPassPerItem,10,5119,Sorted
-BubbleSortPassPerItem,10,5260,Sorted
-BubbleSortPassPerItem,10,5230,Sorted
-BubbleSortPassPerItem,10,5228,Sorted
-BubbleSortPassPerItem,10,5106,Sorted
-BubbleSortPassPerItem,10,5179,Sorted
-BubbleSortPassPerItem,10,5174,Sorted
-BubbleSortPassPerItem,10,5201,Sorted
-BubbleSortPassPerItem,10,5155,Sorted
-BubbleSortPassPerItem,10,6140,Sorted
-BubbleSortUntilNoChange,10,352,Sorted
-BubbleSortUntilNoChange,10,403,Sorted
-BubbleSortUntilNoChange,10,336,Sorted
-BubbleSortUntilNoChange,10,297,Sorted
-BubbleSortUntilNoChange,10,341,Sorted
-BubbleSortUntilNoChange,10,371,Sorted
-BubbleSortUntilNoChange,10,316,Sorted
-BubbleSortUntilNoChange,10,355,Sorted
-BubbleSortUntilNoChange,10,311,Sorted
-BubbleSortUntilNoChange,10,338,Sorted
-BubbleSortUntilNoChange,10,307,Sorted
-BubbleSortUntilNoChange,10,321,Sorted
-BubbleSortUntilNoChange,10,358,Sorted
-BubbleSortUntilNoChange,10,290,Sorted
-BubbleSortUntilNoChange,10,314,Sorted
-BubbleSortUntilNoChange,10,297,Sorted
-BubbleSortUntilNoChange,10,312,Sorted
-BubbleSortUntilNoChange,10,269,Sorted
-BubbleSortUntilNoChange,10,262,Sorted
-BubbleSortUntilNoChange,10,255,Sorted
-BubbleSortUntilNoChange,10,284,Sorted
-BubbleSortUntilNoChange,10,320,Sorted
-BubbleSortUntilNoChange,10,289,Sorted
-BubbleSortUntilNoChange,10,303,Sorted
-BubbleSortUntilNoChange,10,298,Sorted
-BubbleSortUntilNoChange,10,270,Sorted
-BubbleSortUntilNoChange,10,271,Sorted
-BubbleSortUntilNoChange,10,268,Sorted
-BubbleSortUntilNoChange,10,285,Sorted
-BubbleSortUntilNoChange,10,272,Sorted
-BubbleSortWhileNeeded,10,915,Sorted
-BubbleSortWhileNeeded,10,2064,Sorted
-BubbleSortWhileNeeded,10,1238,Sorted
-BubbleSortWhileNeeded,10,1346,Sorted
-BubbleSortWhileNeeded,10,1311,Sorted
-BubbleSortWhileNeeded,10,1352,Sorted
-BubbleSortWhileNeeded,10,1082,Sorted
-BubbleSortWhileNeeded,10,1551,Sorted
-BubbleSortWhileNeeded,10,2001,Sorted
-BubbleSortWhileNeeded,10,890,Sorted
-BubbleSortWhileNeeded,10,854,Sorted
-BubbleSortWhileNeeded,10,861,Sorted
-BubbleSortWhileNeeded,10,829,Sorted
-BubbleSortWhileNeeded,10,867,Sorted
-BubbleSortWhileNeeded,10,813,Sorted
-BubbleSortWhileNeeded,10,844,Sorted
-BubbleSortWhileNeeded,10,837,Sorted
-BubbleSortWhileNeeded,10,823,Sorted
-BubbleSortWhileNeeded,10,810,Sorted
-BubbleSortWhileNeeded,10,822,Sorted
-BubbleSortWhileNeeded,10,795,Sorted
-BubbleSortWhileNeeded,10,799,Sorted
-BubbleSortWhileNeeded,10,867,Sorted
-BubbleSortWhileNeeded,10,1144,Sorted
-BubbleSortWhileNeeded,10,1276,Sorted
-BubbleSortWhileNeeded,10,900,Sorted
-BubbleSortWhileNeeded,10,778,Sorted
-BubbleSortWhileNeeded,10,851,Sorted
-BubbleSortWhileNeeded,10,817,Sorted
-BubbleSortWhileNeeded,10,854,Sorted
-BubbleSortWhileNeeded,10,10283,Reverse
-BubbleSortWhileNeeded,10,9116,Reverse
-BubbleSortWhileNeeded,10,8468,Reverse
-BubbleSortWhileNeeded,10,7132,Reverse
-BubbleSortWhileNeeded,10,8537,Reverse
-BubbleSortWhileNeeded,10,6960,Reverse
-BubbleSortWhileNeeded,10,6883,Reverse
-BubbleSortWhileNeeded,10,6912,Reverse
-BubbleSortWhileNeeded,10,6964,Reverse
-BubbleSortWhileNeeded,10,6938,Reverse
-BubbleSortWhileNeeded,10,6879,Reverse
-BubbleSortWhileNeeded,10,27159,Reverse
-BubbleSortWhileNeeded,10,7207,Reverse
-BubbleSortWhileNeeded,10,7366,Reverse
-BubbleSortWhileNeeded,10,7368,Reverse
-BubbleSortWhileNeeded,10,7211,Reverse
-BubbleSortWhileNeeded,10,7305,Reverse
-BubbleSortWhileNeeded,10,7506,Reverse
-BubbleSortWhileNeeded,10,7730,Reverse
-BubbleSortWhileNeeded,10,7836,Reverse
-BubbleSortWhileNeeded,10,7574,Reverse
-BubbleSortWhileNeeded,10,7983,Reverse
-BubbleSortWhileNeeded,10,8047,Reverse
-BubbleSortWhileNeeded,10,9489,Reverse
-BubbleSortWhileNeeded,10,8020,Reverse
-BubbleSortWhileNeeded,10,7638,Reverse
-BubbleSortWhileNeeded,10,8024,Reverse
-BubbleSortWhileNeeded,10,7798,Reverse
-BubbleSortWhileNeeded,10,7716,Reverse
-BubbleSortWhileNeeded,10,7435,Reverse
-BubbleSortPassPerItem,10,11787,Reverse
-BubbleSortPassPerItem,10,9284,Reverse
-BubbleSortPassPerItem,10,10856,Reverse
-BubbleSortPassPerItem,10,8301,Reverse
-BubbleSortPassPerItem,10,7320,Reverse
-BubbleSortPassPerItem,10,8709,Reverse
-BubbleSortPassPerItem,10,8900,Reverse
-BubbleSortPassPerItem,10,8926,Reverse
-BubbleSortPassPerItem,10,8530,Reverse
-BubbleSortPassPerItem,10,8861,Reverse
-BubbleSortPassPerItem,10,9034,Reverse
-BubbleSortPassPerItem,10,8776,Reverse
-BubbleSortPassPerItem,10,10606,Reverse
-BubbleSortPassPerItem,10,8874,Reverse
-BubbleSortPassPerItem,10,8764,Reverse
-BubbleSortPassPerItem,10,8883,Reverse
-BubbleSortPassPerItem,10,8794,Reverse
-BubbleSortPassPerItem,10,10929,Reverse
-BubbleSortPassPerItem,10,8987,Reverse
-BubbleSortPassPerItem,10,9000,Reverse
-BubbleSortPassPerItem,10,8925,Reverse
-BubbleSortPassPerItem,10,8978,Reverse
-BubbleSortPassPerItem,10,9045,Reverse
-BubbleSortPassPerItem,10,9566,Reverse
-BubbleSortPassPerItem,10,8700,Reverse
-BubbleSortPassPerItem,10,8740,Reverse
-BubbleSortPassPerItem,10,8763,Reverse
-BubbleSortPassPerItem,10,8858,Reverse
-BubbleSortPassPerItem,10,8824,Reverse
-BubbleSortPassPerItem,10,7393,Reverse
-BubbleSortUntilNoChange,10,315,Reverse
-BubbleSortUntilNoChange,10,477,Reverse
-BubbleSortUntilNoChange,10,385,Reverse
-BubbleSortUntilNoChange,10,326,Reverse
-BubbleSortUntilNoChange,10,350,Reverse
-BubbleSortUntilNoChange,10,350,Reverse
-BubbleSortUntilNoChange,10,395,Reverse
-BubbleSortUntilNoChange,10,315,Reverse
-BubbleSortUntilNoChange,10,307,Reverse
-BubbleSortUntilNoChange,10,281,Reverse
-BubbleSortUntilNoChange,10,278,Reverse
-BubbleSortUntilNoChange,10,290,Reverse
-BubbleSortUntilNoChange,10,275,Reverse
-BubbleSortUntilNoChange,10,257,Reverse
-BubbleSortUntilNoChange,10,253,Reverse
-BubbleSortUntilNoChange,10,270,Reverse
-BubbleSortUntilNoChange,10,299,Reverse
-BubbleSortUntilNoChange,10,324,Reverse
-BubbleSortUntilNoChange,10,296,Reverse
-BubbleSortUntilNoChange,10,297,Reverse
-BubbleSortUntilNoChange,10,314,Reverse
-BubbleSortUntilNoChange,10,241,Reverse
-BubbleSortUntilNoChange,10,234,Reverse
-BubbleSortUntilNoChange,10,223,Reverse
-BubbleSortUntilNoChange,10,239,Reverse
-BubbleSortUntilNoChange,10,239,Reverse
-BubbleSortUntilNoChange,10,219,Reverse
-BubbleSortUntilNoChange,10,222,Reverse
-BubbleSortUntilNoChange,10,233,Reverse
-BubbleSortUntilNoChange,10,247,Reverse
+BubbleSortWhileNeeded,100,37213,Random
+BubbleSortWhileNeeded,100,2912,Random
+BubbleSortWhileNeeded,100,694,Random
+BubbleSortWhileNeeded,100,686,Random
+BubbleSortWhileNeeded,100,592,Random
+BubbleSortWhileNeeded,100,572,Random
+BubbleSortWhileNeeded,100,590,Random
+BubbleSortWhileNeeded,100,630,Random
+BubbleSortWhileNeeded,100,746,Random
+BubbleSortWhileNeeded,100,790,Random
+BubbleSortWhileNeeded,100,645,Random
+BubbleSortWhileNeeded,100,612,Random
+BubbleSortWhileNeeded,100,646,Random
+BubbleSortWhileNeeded,100,662,Random
+BubbleSortWhileNeeded,100,622,Random
+BubbleSortWhileNeeded,100,605,Random
+BubbleSortWhileNeeded,100,572,Random
+BubbleSortWhileNeeded,100,592,Random
+BubbleSortWhileNeeded,100,638,Random
+BubbleSortWhileNeeded,100,619,Random
+BubbleSortWhileNeeded,100,606,Random
+BubbleSortWhileNeeded,100,625,Random
+BubbleSortWhileNeeded,100,595,Random
+BubbleSortWhileNeeded,100,576,Random
+BubbleSortWhileNeeded,100,403,Random
+BubbleSortWhileNeeded,100,382,Random
+BubbleSortWhileNeeded,100,387,Random
+BubbleSortWhileNeeded,100,359,Random
+BubbleSortWhileNeeded,100,374,Random
+BubbleSortWhileNeeded,100,597,Random
+BubbleSortPassPerItem,100,102688,Random
+BubbleSortPassPerItem,100,37772,Random
+BubbleSortPassPerItem,100,21882,Random
+BubbleSortPassPerItem,100,21501,Random
+BubbleSortPassPerItem,100,39185,Random
+BubbleSortPassPerItem,100,22184,Random
+BubbleSortPassPerItem,100,22155,Random
+BubbleSortPassPerItem,100,21933,Random
+BubbleSortPassPerItem,100,21959,Random
+BubbleSortPassPerItem,100,22157,Random
+BubbleSortPassPerItem,100,21416,Random
+BubbleSortPassPerItem,100,22268,Random
+BubbleSortPassPerItem,100,21490,Random
+BubbleSortPassPerItem,100,21578,Random
+BubbleSortPassPerItem,100,21615,Random
+BubbleSortPassPerItem,100,21497,Random
+BubbleSortPassPerItem,100,21400,Random
+BubbleSortPassPerItem,100,21919,Random
+BubbleSortPassPerItem,100,21419,Random
+BubbleSortPassPerItem,100,21571,Random
+BubbleSortPassPerItem,100,21657,Random
+BubbleSortPassPerItem,100,21596,Random
+BubbleSortPassPerItem,100,22018,Random
+BubbleSortPassPerItem,100,21645,Random
+BubbleSortPassPerItem,100,31754,Random
+BubbleSortPassPerItem,100,31574,Random
+BubbleSortPassPerItem,100,20468,Random
+BubbleSortPassPerItem,100,21010,Random
+BubbleSortPassPerItem,100,21160,Random
+BubbleSortPassPerItem,100,21191,Random
+BubbleSortUntilNoChange,100,16704,Random
+BubbleSortUntilNoChange,100,1134,Random
+BubbleSortUntilNoChange,100,478,Random
+BubbleSortUntilNoChange,100,539,Random
+BubbleSortUntilNoChange,100,480,Random
+BubbleSortUntilNoChange,100,432,Random
+BubbleSortUntilNoChange,100,426,Random
+BubbleSortUntilNoChange,100,439,Random
+BubbleSortUntilNoChange,100,408,Random
+BubbleSortUntilNoChange,100,418,Random
+BubbleSortUntilNoChange,100,427,Random
+BubbleSortUntilNoChange,100,396,Random
+BubbleSortUntilNoChange,100,399,Random
+BubbleSortUntilNoChange,100,1095,Random
+BubbleSortUntilNoChange,100,651,Random
+BubbleSortUntilNoChange,100,621,Random
+BubbleSortUntilNoChange,100,487,Random
+BubbleSortUntilNoChange,100,412,Random
+BubbleSortUntilNoChange,100,379,Random
+BubbleSortUntilNoChange,100,392,Random
+BubbleSortUntilNoChange,100,402,Random
+BubbleSortUntilNoChange,100,386,Random
+BubbleSortUntilNoChange,100,524,Random
+BubbleSortUntilNoChange,100,617,Random
+BubbleSortUntilNoChange,100,676,Random
+BubbleSortUntilNoChange,100,648,Random
+BubbleSortUntilNoChange,100,638,Random
+BubbleSortUntilNoChange,100,635,Random
+BubbleSortUntilNoChange,100,720,Random
+BubbleSortUntilNoChange,100,730,Random
+BubbleSortWhileNeeded,100,57234,Nearly sorted
+BubbleSortWhileNeeded,100,15959,Nearly sorted
+BubbleSortWhileNeeded,100,19847,Nearly sorted
+BubbleSortWhileNeeded,100,61405,Nearly sorted
+BubbleSortWhileNeeded,100,14462,Nearly sorted
+BubbleSortWhileNeeded,100,13651,Nearly sorted
+BubbleSortWhileNeeded,100,13576,Nearly sorted
+BubbleSortWhileNeeded,100,29676,Nearly sorted
+BubbleSortWhileNeeded,100,12788,Nearly sorted
+BubbleSortWhileNeeded,100,18021,Nearly sorted
+BubbleSortWhileNeeded,100,20419,Nearly sorted
+BubbleSortWhileNeeded,100,16504,Nearly sorted
+BubbleSortWhileNeeded,100,17318,Nearly sorted
+BubbleSortWhileNeeded,100,17200,Nearly sorted
+BubbleSortWhileNeeded,100,17078,Nearly sorted
+BubbleSortWhileNeeded,100,16269,Nearly sorted
+BubbleSortWhileNeeded,100,16228,Nearly sorted
+BubbleSortWhileNeeded,100,16313,Nearly sorted
+BubbleSortWhileNeeded,100,19977,Nearly sorted
+BubbleSortWhileNeeded,100,13492,Nearly sorted
+BubbleSortWhileNeeded,100,16400,Nearly sorted
+BubbleSortWhileNeeded,100,16173,Nearly sorted
+BubbleSortWhileNeeded,100,17387,Nearly sorted
+BubbleSortWhileNeeded,100,16042,Nearly sorted
+BubbleSortWhileNeeded,100,16220,Nearly sorted
+BubbleSortWhileNeeded,100,15975,Nearly sorted
+BubbleSortWhileNeeded,100,16019,Nearly sorted
+BubbleSortWhileNeeded,100,17908,Nearly sorted
+BubbleSortWhileNeeded,100,17898,Nearly sorted
+BubbleSortWhileNeeded,100,20611,Nearly sorted
+BubbleSortPassPerItem,100,31248,Nearly sorted
+BubbleSortPassPerItem,100,23253,Nearly sorted
+BubbleSortPassPerItem,100,27742,Nearly sorted
+BubbleSortPassPerItem,100,22866,Nearly sorted
+BubbleSortPassPerItem,100,22880,Nearly sorted
+BubbleSortPassPerItem,100,28275,Nearly sorted
+BubbleSortPassPerItem,100,23524,Nearly sorted
+BubbleSortPassPerItem,100,27449,Nearly sorted
+BubbleSortPassPerItem,100,29332,Nearly sorted
+BubbleSortPassPerItem,100,27723,Nearly sorted
+BubbleSortPassPerItem,100,29185,Nearly sorted
+BubbleSortPassPerItem,100,29174,Nearly sorted
+BubbleSortPassPerItem,100,29350,Nearly sorted
+BubbleSortPassPerItem,100,29301,Nearly sorted
+BubbleSortPassPerItem,100,29261,Nearly sorted
+BubbleSortPassPerItem,100,27939,Nearly sorted
+BubbleSortPassPerItem,100,30247,Nearly sorted
+BubbleSortPassPerItem,100,28875,Nearly sorted
+BubbleSortPassPerItem,100,26141,Nearly sorted
+BubbleSortPassPerItem,100,25821,Nearly sorted
+BubbleSortPassPerItem,100,54210,Nearly sorted
+BubbleSortPassPerItem,100,27832,Nearly sorted
+BubbleSortPassPerItem,100,28224,Nearly sorted
+BubbleSortPassPerItem,100,27983,Nearly sorted
+BubbleSortPassPerItem,100,28447,Nearly sorted
+BubbleSortPassPerItem,100,27519,Nearly sorted
+BubbleSortPassPerItem,100,28860,Nearly sorted
+BubbleSortPassPerItem,100,29066,Nearly sorted
+BubbleSortPassPerItem,100,28201,Nearly sorted
+BubbleSortPassPerItem,100,29086,Nearly sorted
+BubbleSortUntilNoChange,100,1712,Nearly sorted
+BubbleSortUntilNoChange,100,536,Nearly sorted
+BubbleSortUntilNoChange,100,405,Nearly sorted
+BubbleSortUntilNoChange,100,406,Nearly sorted
+BubbleSortUntilNoChange,100,411,Nearly sorted
+BubbleSortUntilNoChange,100,484,Nearly sorted
+BubbleSortUntilNoChange,100,428,Nearly sorted
+BubbleSortUntilNoChange,100,400,Nearly sorted
+BubbleSortUntilNoChange,100,399,Nearly sorted
+BubbleSortUntilNoChange,100,407,Nearly sorted
+BubbleSortUntilNoChange,100,502,Nearly sorted
+BubbleSortUntilNoChange,100,633,Nearly sorted
+BubbleSortUntilNoChange,100,498,Nearly sorted
+BubbleSortUntilNoChange,100,435,Nearly sorted
+BubbleSortUntilNoChange,100,389,Nearly sorted
+BubbleSortUntilNoChange,100,603,Nearly sorted
+BubbleSortUntilNoChange,100,619,Nearly sorted
+BubbleSortUntilNoChange,100,590,Nearly sorted
+BubbleSortUntilNoChange,100,577,Nearly sorted
+BubbleSortUntilNoChange,100,632,Nearly sorted
+BubbleSortUntilNoChange,100,659,Nearly sorted
+BubbleSortUntilNoChange,100,755,Nearly sorted
+BubbleSortUntilNoChange,100,687,Nearly sorted
+BubbleSortUntilNoChange,100,627,Nearly sorted
+BubbleSortUntilNoChange,100,616,Nearly sorted
+BubbleSortUntilNoChange,100,635,Nearly sorted
+BubbleSortUntilNoChange,100,643,Nearly sorted
+BubbleSortUntilNoChange,100,689,Nearly sorted
+BubbleSortUntilNoChange,100,652,Nearly sorted
+BubbleSortUntilNoChange,100,675,Nearly sorted
+BubbleSortPassPerItem,100,23311,Sorted
+BubbleSortPassPerItem,100,26300,Sorted
+BubbleSortPassPerItem,100,24173,Sorted
+BubbleSortPassPerItem,100,23597,Sorted
+BubbleSortPassPerItem,100,23567,Sorted
+BubbleSortPassPerItem,100,24580,Sorted
+BubbleSortPassPerItem,100,23454,Sorted
+BubbleSortPassPerItem,100,23489,Sorted
+BubbleSortPassPerItem,100,23321,Sorted
+BubbleSortPassPerItem,100,22863,Sorted
+BubbleSortPassPerItem,100,22816,Sorted
+BubbleSortPassPerItem,100,22684,Sorted
+BubbleSortPassPerItem,100,22836,Sorted
+BubbleSortPassPerItem,100,22842,Sorted
+BubbleSortPassPerItem,100,22804,Sorted
+BubbleSortPassPerItem,100,22790,Sorted
+BubbleSortPassPerItem,100,22831,Sorted
+BubbleSortPassPerItem,100,22939,Sorted
+BubbleSortPassPerItem,100,22709,Sorted
+BubbleSortPassPerItem,100,22964,Sorted
+BubbleSortPassPerItem,100,22762,Sorted
+BubbleSortPassPerItem,100,22834,Sorted
+BubbleSortPassPerItem,100,23198,Sorted
+BubbleSortPassPerItem,100,22843,Sorted
+BubbleSortPassPerItem,100,22894,Sorted
+BubbleSortPassPerItem,100,22866,Sorted
+BubbleSortPassPerItem,100,22969,Sorted
+BubbleSortPassPerItem,100,23268,Sorted
+BubbleSortPassPerItem,100,23061,Sorted
+BubbleSortPassPerItem,100,23052,Sorted
+BubbleSortUntilNoChange,100,914,Sorted
+BubbleSortUntilNoChange,100,756,Sorted
+BubbleSortUntilNoChange,100,664,Sorted
+BubbleSortUntilNoChange,100,645,Sorted
+BubbleSortUntilNoChange,100,610,Sorted
+BubbleSortUntilNoChange,100,647,Sorted
+BubbleSortUntilNoChange,100,597,Sorted
+BubbleSortUntilNoChange,100,609,Sorted
+BubbleSortUntilNoChange,100,719,Sorted
+BubbleSortUntilNoChange,100,641,Sorted
+BubbleSortUntilNoChange,100,649,Sorted
+BubbleSortUntilNoChange,100,437,Sorted
+BubbleSortUntilNoChange,100,690,Sorted
+BubbleSortUntilNoChange,100,705,Sorted
+BubbleSortUntilNoChange,100,655,Sorted
+BubbleSortUntilNoChange,100,697,Sorted
+BubbleSortUntilNoChange,100,704,Sorted
+BubbleSortUntilNoChange,100,666,Sorted
+BubbleSortUntilNoChange,100,729,Sorted
+BubbleSortUntilNoChange,100,735,Sorted
+BubbleSortUntilNoChange,100,570,Sorted
+BubbleSortUntilNoChange,100,690,Sorted
+BubbleSortUntilNoChange,100,747,Sorted
+BubbleSortUntilNoChange,100,641,Sorted
+BubbleSortUntilNoChange,100,673,Sorted
+BubbleSortUntilNoChange,100,611,Sorted
+BubbleSortUntilNoChange,100,652,Sorted
+BubbleSortUntilNoChange,100,663,Sorted
+BubbleSortUntilNoChange,100,673,Sorted
+BubbleSortUntilNoChange,100,643,Sorted
+BubbleSortWhileNeeded,100,639,Sorted
+BubbleSortWhileNeeded,100,884,Sorted
+BubbleSortWhileNeeded,100,645,Sorted
+BubbleSortWhileNeeded,100,605,Sorted
+BubbleSortWhileNeeded,100,560,Sorted
+BubbleSortWhileNeeded,100,622,Sorted
+BubbleSortWhileNeeded,100,635,Sorted
+BubbleSortWhileNeeded,100,643,Sorted
+BubbleSortWhileNeeded,100,610,Sorted
+BubbleSortWhileNeeded,100,608,Sorted
+BubbleSortWhileNeeded,100,527,Sorted
+BubbleSortWhileNeeded,100,604,Sorted
+BubbleSortWhileNeeded,100,629,Sorted
+BubbleSortWhileNeeded,100,621,Sorted
+BubbleSortWhileNeeded,100,525,Sorted
+BubbleSortWhileNeeded,100,645,Sorted
+BubbleSortWhileNeeded,100,631,Sorted
+BubbleSortWhileNeeded,100,549,Sorted
+BubbleSortWhileNeeded,100,560,Sorted
+BubbleSortWhileNeeded,100,563,Sorted
+BubbleSortWhileNeeded,100,624,Sorted
+BubbleSortWhileNeeded,100,647,Sorted
+BubbleSortWhileNeeded,100,598,Sorted
+BubbleSortWhileNeeded,100,598,Sorted
+BubbleSortWhileNeeded,100,591,Sorted
+BubbleSortWhileNeeded,100,618,Sorted
+BubbleSortWhileNeeded,100,625,Sorted
+BubbleSortWhileNeeded,100,604,Sorted
+BubbleSortWhileNeeded,100,641,Sorted
+BubbleSortWhileNeeded,100,595,Sorted
+BubbleSortWhileNeeded,100,41998,Reverse
+BubbleSortWhileNeeded,100,32951,Reverse
+BubbleSortWhileNeeded,100,30668,Reverse
+BubbleSortWhileNeeded,100,30966,Reverse
+BubbleSortWhileNeeded,100,30255,Reverse
+BubbleSortWhileNeeded,100,30138,Reverse
+BubbleSortWhileNeeded,100,36243,Reverse
+BubbleSortWhileNeeded,100,29678,Reverse
+BubbleSortWhileNeeded,100,31076,Reverse
+BubbleSortWhileNeeded,100,42644,Reverse
+BubbleSortWhileNeeded,100,30370,Reverse
+BubbleSortWhileNeeded,100,27916,Reverse
+BubbleSortWhileNeeded,100,27953,Reverse
+BubbleSortWhileNeeded,100,27798,Reverse
+BubbleSortWhileNeeded,100,28055,Reverse
+BubbleSortWhileNeeded,100,27943,Reverse
+BubbleSortWhileNeeded,100,27855,Reverse
+BubbleSortWhileNeeded,100,28042,Reverse
+BubbleSortWhileNeeded,100,28230,Reverse
+BubbleSortWhileNeeded,100,28677,Reverse
+BubbleSortWhileNeeded,100,28873,Reverse
+BubbleSortWhileNeeded,100,28015,Reverse
+BubbleSortWhileNeeded,100,28116,Reverse
+BubbleSortWhileNeeded,100,28415,Reverse
+BubbleSortWhileNeeded,100,28097,Reverse
+BubbleSortWhileNeeded,100,30940,Reverse
+BubbleSortWhileNeeded,100,28338,Reverse
+BubbleSortWhileNeeded,100,32362,Reverse
+BubbleSortWhileNeeded,100,28323,Reverse
+BubbleSortWhileNeeded,100,28095,Reverse
+BubbleSortPassPerItem,100,39697,Reverse
+BubbleSortPassPerItem,100,26081,Reverse
+BubbleSortPassPerItem,100,23888,Reverse
+BubbleSortPassPerItem,100,23905,Reverse
+BubbleSortPassPerItem,100,23895,Reverse
+BubbleSortPassPerItem,100,23808,Reverse
+BubbleSortPassPerItem,100,24204,Reverse
+BubbleSortPassPerItem,100,23180,Reverse
+BubbleSortPassPerItem,100,23851,Reverse
+BubbleSortPassPerItem,100,23245,Reverse
+BubbleSortPassPerItem,100,22229,Reverse
+BubbleSortPassPerItem,100,23616,Reverse
+BubbleSortPassPerItem,100,23427,Reverse
+BubbleSortPassPerItem,100,23235,Reverse
+BubbleSortPassPerItem,100,23303,Reverse
+BubbleSortPassPerItem,100,23262,Reverse
+BubbleSortPassPerItem,100,23592,Reverse
+BubbleSortPassPerItem,100,23393,Reverse
+BubbleSortPassPerItem,100,23373,Reverse
+BubbleSortPassPerItem,100,23913,Reverse
+BubbleSortPassPerItem,100,23510,Reverse
+BubbleSortPassPerItem,100,23322,Reverse
+BubbleSortPassPerItem,100,23445,Reverse
+BubbleSortPassPerItem,100,29283,Reverse
+BubbleSortPassPerItem,100,23559,Reverse
+BubbleSortPassPerItem,100,23487,Reverse
+BubbleSortPassPerItem,100,22652,Reverse
+BubbleSortPassPerItem,100,22894,Reverse
+BubbleSortPassPerItem,100,23025,Reverse
+BubbleSortPassPerItem,100,22900,Reverse
+BubbleSortUntilNoChange,100,705,Reverse
+BubbleSortUntilNoChange,100,872,Reverse
+BubbleSortUntilNoChange,100,715,Reverse
+BubbleSortUntilNoChange,100,650,Reverse
+BubbleSortUntilNoChange,100,657,Reverse
+BubbleSortUntilNoChange,100,574,Reverse
+BubbleSortUntilNoChange,100,600,Reverse
+BubbleSortUntilNoChange,100,565,Reverse
+BubbleSortUntilNoChange,100,583,Reverse
+BubbleSortUntilNoChange,100,617,Reverse
+BubbleSortUntilNoChange,100,591,Reverse
+BubbleSortUntilNoChange,100,618,Reverse
+BubbleSortUntilNoChange,100,639,Reverse
+BubbleSortUntilNoChange,100,610,Reverse
+BubbleSortUntilNoChange,100,642,Reverse
+BubbleSortUntilNoChange,100,650,Reverse
+BubbleSortUntilNoChange,100,605,Reverse
+BubbleSortUntilNoChange,100,615,Reverse
+BubbleSortUntilNoChange,100,588,Reverse
+BubbleSortUntilNoChange,100,601,Reverse
+BubbleSortUntilNoChange,100,631,Reverse
+BubbleSortUntilNoChange,100,608,Reverse
+BubbleSortUntilNoChange,100,623,Reverse
+BubbleSortUntilNoChange,100,551,Reverse
+BubbleSortUntilNoChange,100,636,Reverse
+BubbleSortUntilNoChange,100,640,Reverse
+BubbleSortUntilNoChange,100,645,Reverse
+BubbleSortUntilNoChange,100,576,Reverse
+BubbleSortUntilNoChange,100,598,Reverse
+BubbleSortUntilNoChange,100,645,Reverse
